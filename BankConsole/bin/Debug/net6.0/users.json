@@ -1,0 +1,18 @@
+[
+  {
+    "Department": "IT",
+    "ID": 3,
+    "Name": "Juan",
+    "Email": "juan@mail.com",
+    "Balance": 1296.036,
+    "RegisterDate": "2023-07-31T00:10:37.0254055-06:00"
+  },
+  {
+    "Department": "contraloría",
+    "ID": 1,
+    "Name": "Luis",
+    "Email": "luis@mail.com",
+    "Balance": 2.0,
+    "RegisterDate": "2023-08-01T20:32:44.4617161-06:00"
+  }
+]

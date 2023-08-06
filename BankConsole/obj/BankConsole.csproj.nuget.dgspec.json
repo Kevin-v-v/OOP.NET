@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kevin_kir9wvk\\Desktop\\Coding\\c#\\CursoNET\\BANKSOLUTION\\BankConsole\\BankConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kevin_kir9wvk\\Desktop\\Coding\\c#\\CursoNET\\BANKSOLUTION\\BankConsole\\BankConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin_kir9wvk\\Desktop\\Coding\\c#\\CursoNET\\BANKSOLUTION\\BankConsole\\BankConsole.csproj",
+        "projectName": "BankConsole",
+        "projectPath": "C:\\Users\\kevin_kir9wvk\\Desktop\\Coding\\c#\\CursoNET\\BANKSOLUTION\\BankConsole\\BankConsole.csproj",
+        "packagesPath": "C:\\Users\\kevin_kir9wvk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin_kir9wvk\\Desktop\\Coding\\c#\\CursoNET\\BANKSOLUTION\\BankConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin_kir9wvk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Google.Apis.Gmail.v1": {
+              "target": "Package",
+              "version": "[1.61.0.3105, )"
+            },
+            "Google.Apis.Oauth2.v2": {
+              "target": "Package",
+              "version": "[1.61.0.1869, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
